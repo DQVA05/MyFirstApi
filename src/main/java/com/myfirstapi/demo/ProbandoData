@@ -1,0 +1,4 @@
+public class ProbandoData{
+    private List<String> data;
+    
+}
